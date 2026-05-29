@@ -13,5 +13,7 @@ git add .
 Ready to take a pull.
 Now lets test about the conflict.
 now ready to push.
+ready to push.
+
 
 ready to pull.
