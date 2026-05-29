@@ -1,1 +1,10 @@
-Hi no data.
+git add .                                                    
+  39 git commit -m "Adding file again for testing"                
+  40 rm Testing.py                                                
+  41 got status                                                   
+  42 git status                                                   
+  43 git restore Testing.py                                       
+  44 git status                                                   
+  45 history                                                      
+  46 git status                                                   
+  47 git add git_command.txt 
