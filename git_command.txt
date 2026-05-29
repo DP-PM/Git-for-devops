@@ -9,11 +9,19 @@ git add .
   46 git status                                                   
   47 git add git_command.txt 
 
-
-Ready to take a pull.
-Now lets test about the conflict.
-now ready to push.
-ready to push.
-
-
-ready to pull.
+git branch dev                                               
+  98 git branch                                                   
+  99 git status                                                   
+ 100 git switch dev                                               
+ 101 git status                                                   
+ 102 git add .\git_dev_branch                                     
+ 103 git commit -m "dev branch to push"                           
+ 104 git status                                                   
+ 105 git switch master                                            
+ 106 git log                                                      
+ 107 git log --oneline                                            
+ 108 git checkout dev                                             
+ 109 git log --oneline                                            
+ 110 git push origin dev                                          
+ 111 history                                                      
+ 112 clear       
