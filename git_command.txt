@@ -11,3 +11,4 @@ git add .
 
 
 Ready to take a pull.
+Now lets test about the conflict.
